@@ -1,4 +1,4 @@
-package org.example.RestAssuredBasicsGet.POST;
+package org.example.RestAssuredBasics.POST;
 import io.qameta.allure.Description;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
